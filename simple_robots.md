@@ -33,4 +33,5 @@ West  .  East
 
 ## Your Code
 
-You should be able to have an object which represents the robot, it's location and position, and also methods, allowing it to change the position according to the rules above.
+You should be able to have an object which represents the robot, its location and bearing,
+and also methods allowing it to move around according to the rules above.
