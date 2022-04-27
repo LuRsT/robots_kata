@@ -14,9 +14,9 @@ The co-ordinate of the position one place North from (0,0) is (0, 1).
 ## Controlling the robot
 
 The robot can be given three instructions:
-- Move forward: The robot will move one coordinate in the direction of it's bearing
-- Turn left: The robot will turn to the left, changing it's rotation to the left of the current one (example: From North to West)
-- Turn right: The robot will turn to the right, changing it's rotation to the right of the current one (example: From North to East)
+- Move forward: The robot will move one coordinate in the direction of its bearing
+- Turn left: The robot will turn to the left, changing its rotation to the left of the current one (example: From North to West)
+- Turn right: The robot will turn to the right, changing its rotation to the right of the current one (example: From North to East)
 
 
 
